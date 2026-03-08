@@ -24,6 +24,7 @@ Resume →
 href="https://github.com/Baratheyy"
 target="_blank"
 className="socialIcon"
+rel="noreferrer"
 >
 <FaGithub/>
 </a>
@@ -32,6 +33,7 @@ className="socialIcon"
 href="https://www.linkedin.com/in/barath-v-70b794268/"
 target="_blank"
 className="socialIcon"
+rel="noreferrer"
 >
 <FaLinkedin/>
 </a>
@@ -40,6 +42,7 @@ className="socialIcon"
 href="https://instagram.com/baratheyy"
 target="_blank"
 className="socialIcon"
+rel="noreferrer"
 >
 <FaInstagram/>
 </a>

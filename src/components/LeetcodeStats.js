@@ -10,6 +10,7 @@ LeetCode Stats
 
 <img
 src="https://leetcard.jacoblin.cool/Baratheyy?theme=dark"
+alt="LeetCode stats"
 />
 
 <br/>
