@@ -16,7 +16,7 @@ return(
 
 <div>
 
-<h3>Software Intern</h3>
+<h3>Software Developer Intern</h3>
 
 <p className="company">
 KLA Tencor, Chennai
